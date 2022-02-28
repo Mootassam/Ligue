@@ -1,0 +1,25 @@
+{
+  "typescript.updateImportsOnFileMove.enabled": "never",
+<<<<<<< HEAD
+  "typescript.preferences.importModuleSpecifier": "non-relative"
+=======
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveForeground": "#e7e7e799",
+    "titleBar.activeBackground": "#0d7250",
+    "titleBar.inactiveBackground": "#0d725099",
+    "activityBar.activeBackground": "#12a070",
+    "activityBar.activeBorder": "#8c17c9",
+    "activityBar.background": "#12a070",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#8c17c9",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "statusBar.background": "#0d7250",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#12a070"
+  },
+  "peacock.color": "#0d7250"
+>>>>>>> 71d52c6ad7d0f2c53050fd49fb3de969074a06cb
+}
